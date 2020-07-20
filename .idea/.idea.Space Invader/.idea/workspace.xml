@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a1ca89-dedb-43b5-9da7-2172da8361cc" name="Default Changelist" comment="Added Shooter Script">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CustomScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CustomScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Space Invader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Space Invader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ShooterScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ShooterScript.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595267592045</updated>
-      <workItem from="1595267767473" duration="6739000" />
+      <workItem from="1595267767473" duration="7055000" />
     </task>
     <task id="LOCAL-00001" summary="Added Shooter Script">
       <created>1595273795523</created>

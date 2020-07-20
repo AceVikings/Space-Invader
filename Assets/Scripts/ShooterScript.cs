@@ -7,6 +7,7 @@ public class ShooterScript : MonoBehaviour
 {
     public Camera Cam;
     public ParticleSystem muzzleFlash;
+    public AudioSource shootSound;
     private void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -17,6 +18,7 @@ public class ShooterScript : MonoBehaviour
 
     void Shoot()
     {
+        shootSound.Play();
         muzzleFlash.Play();
         RaycastHit hit;
         if(Physics.Raycast(Cam.transform.position,Cam.transform.forward,out hit))
